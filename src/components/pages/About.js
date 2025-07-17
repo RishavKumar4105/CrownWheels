@@ -24,10 +24,10 @@ export default function About(){
                   <div className="col-md-6"> 
                      <div className="about_taital_box">
                         <h1 className="about_taital">About <span style={{ color: "#416E96" }}>Us</span></h1>
-                        <p className="about_text">Welcome to LuxRyRides! We offer an exceptional luxury car rental experience with a premium fleet of high-end vehicles. 
+                        <p className="about_text">Welcome to CrownWheels! We offer an exceptional luxury car rental experience with a premium fleet of high-end vehicles. 
                     Whether for special events, business trips, or a taste of luxury, we have the perfect car for you.
                      Our commitment to excellence ensures seamless service, comfort, and style. Explore our personalized rentals, chauffeur services, and more. 
-                     Thank you for choosing LuxRyRides – where luxury meets convenience. Enjoy your journey with us!</p>
+                     Thank you for choosing CrownWheels – where luxury meets convenience. Enjoy your journey with us!</p>
                         {/* <div className="readmore_btn"><Link to="#">Read More</Link></div> */}
                      </div>
                   </div>

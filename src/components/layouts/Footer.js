@@ -8,10 +8,10 @@ export default function Footer() {
                     <div className="row">
                         <div className="col-md-3">
                             <div className="footer_logo">
-                                <img src="/assets/images/lrlogo.png" alt="LuxRyRides Logo" width="150px" />
+                                <img src="/assets/images/lrlogo.png" alt="CrownWheels Logo" width="150px" />
                             </div>
                             <p className="footer_text">
-                                Discover luxury car rentals for every occasion with LuxRyRides. Stay updated with our latest offers.
+                                Discover luxury car rentals for every occasion with CrownWheels. Stay updated with our latest offers.
                             </p>
                             <div className="form-group">
                                 <input
@@ -27,7 +27,7 @@ export default function Footer() {
                         <div className="col-md-3">
                             <h4 className="footer_title">About Us</h4>
                             <p className="footer_info">
-                                LuxRyRides is your premier destination for luxury car rentals, offering top-notch service and a fleet of elite vehicles.
+                                CrownWheels is your premier destination for luxury car rentals, offering top-notch service and a fleet of elite vehicles.
                             </p>
                         </div>
                         <div className="col-md-3">
@@ -52,7 +52,7 @@ export default function Footer() {
                                 </div>
                                 <div className="contact_item">
                                     <i className="fa fa-envelope" aria-hidden="true" />
-                                    <span className="contact_text">info@luxryrides.com</span>
+                                    <span className="contact_text">info@CrownWheels.com</span>
                                 </div>
                             </div>
                             <div className="social_icons">

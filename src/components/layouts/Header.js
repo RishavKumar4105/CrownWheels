@@ -22,7 +22,7 @@ export default function Header() {
               {/* <img
                 src="/assets/images/lrlogo.png"
                 width="140px"
-                alt="LuxRyRides Logo"
+                alt="CrownWheels Logo"
               /> */}
               <i className="bi bi-car-front-fill text-light"></i>CrownWheels
             </a>

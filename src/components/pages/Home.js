@@ -10,7 +10,7 @@ export default function Home() {
       <>
         <video src={Banner} autoPlay loop muted className="video" />
         <div className="banner_taital_main">
-          <h1 className="banner_taital">LuxRyRides</h1>
+          <h1 className="banner_taital">CrownWheels</h1>
         </div>
 
         <div className="container">
@@ -62,14 +62,14 @@ export default function Home() {
                       About <span style={{ color: "#416E96" }}>Us</span>
                     </h1>
                     <p className="about_text">
-                      Welcome to LuxRyRides! We offer an exceptional luxury car
+                      Welcome to CrownWheels! We offer an exceptional luxury car
                       rental experience with a premium fleet of high-end
                       vehicles. Whether for special events, business trips, or a
                       taste of luxury, we have the perfect car for you. Our
                       commitment to excellence ensures seamless service,
                       comfort, and style. Explore our personalized rentals,
                       chauffeur services, and more. Thank you for choosing
-                      LuxRyRides – where luxury meets convenience. Enjoy your
+                      CrownWheels – where luxury meets convenience. Enjoy your
                       journey with us!
                     </p>
                     {/* <div className="readmore_btn">
@@ -100,7 +100,7 @@ export default function Home() {
                   </div>
                   <h4 className="safety_text">SAFETY &amp; SECURITY</h4>
                   <p className="ipsum_text">
-                    At LuxRyRides, your safety and security are our top
+                    At CrownWheels, your safety and security are our top
                     priorities. We ensure that all our luxury vehicles are
                     regularly inspected and maintained to the highest standards.
                     Our cars are equipped with the latest safety features,
